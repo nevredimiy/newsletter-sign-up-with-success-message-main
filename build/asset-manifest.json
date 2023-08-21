@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.961c9a0f.css",
+    "main.js": "./static/js/main.31c63e2b.js",
+    "static/media/Roboto-Bold.otf": "./static/media/Roboto-Bold.d4cb2ae3ee17c8c0f47c.otf",
+    "static/media/Roboto-Regular.otf": "./static/media/Roboto-Regular.837f2701c0aaecad9097.otf",
+    "static/media/Roboto-Regular.ttf": "./static/media/Roboto-Regular.160d7a6ac26376e5e977.ttf",
+    "static/media/Roboto-Bold.ttf": "./static/media/Roboto-Bold.35eab922fdbe4b5324d4.ttf",
+    "static/media/Roboto-Bold.eot": "./static/media/Roboto-Bold.a2106cf6758f2e1175f4.eot",
+    "static/media/Roboto-Regular.eot": "./static/media/Roboto-Regular.4ac4e7828b30d0df7667.eot",
+    "static/media/Roboto-Bold.woff": "./static/media/Roboto-Bold.f706d6ca22893a62d3c8.woff",
+    "static/media/Roboto-Regular.woff": "./static/media/Roboto-Regular.a3cfa1da9af6de7449f2.woff",
+    "static/media/Roboto-Regular.woff2": "./static/media/Roboto-Regular.5aed06c3c69cd1d41aa5.woff2",
+    "static/media/Roboto-Bold.woff2": "./static/media/Roboto-Bold.bdcd68892caf92ad314f.woff2",
+    "static/media/illustration-sign-up-mobile.svg": "./static/media/illustration-sign-up-mobile.439d8a31268c4cfdbfda018abd883511.svg",
+    "static/media/illustration-sign-up-desktop.svg": "./static/media/illustration-sign-up-desktop.ce2024babf0bc98a8862252535b544c9.svg",
+    "index.html": "./index.html",
+    "static/media/icon-list.svg": "./static/media/icon-list.5e317c030bb9f11a33433484a2c590e1.svg",
+    "main.961c9a0f.css.map": "./static/css/main.961c9a0f.css.map",
+    "main.31c63e2b.js.map": "./static/js/main.31c63e2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.961c9a0f.css",
+    "static/js/main.31c63e2b.js"
+  ]
+}
