@@ -1,0 +1,30 @@
+#app {
+  background-color: var(--color-charcoal-grey);
+  margin: 0 auto;
+  height: 100vh;
+
+  @media(min-width: 1024px) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 643px;
+  }
+}
+
+.main {
+  margin: 0 auto;
+  max-width: 1440px;
+  background-color: var(--color-white);
+  height: 100vh;
+
+  @media(min-width: 1024px) {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    max-width: 840px;
+    border-radius: 10px;
+    height: auto;
+  }
+}
