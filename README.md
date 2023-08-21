@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/nevredimiy/newsletter-sign-up-with-success-message-main.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://nevredimiy.github.io/build-newsletter/)
 
 ## My process
 
