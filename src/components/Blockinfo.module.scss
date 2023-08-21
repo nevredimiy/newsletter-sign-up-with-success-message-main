@@ -1,0 +1,25 @@
+.title {
+    padding: 20px 0;
+}
+
+.text {
+    padding-bottom: 15px;
+}
+
+.list {
+    padding-bottom: 20px;
+}
+
+.item {
+    padding-bottom: 15px;
+    display: flex;
+    gap: 15px;
+    &::before {
+        content: '';
+        background-image: url("../assets/images/icon-list.svg");
+        background-repeat: no-repeat;
+        width: 26px;
+        height: 26px;
+        display: block;
+    }
+}

@@ -1,0 +1,69 @@
+.popap {
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--color-charcoal-grey);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 300ms ease-in-out;
+    pointer-events: none;
+
+    &__image-confirmation {
+        width: 60px;
+        padding-top: calc(100vh * 0.20);
+        padding-bottom: 30px;
+        
+        @media (min-width: 640px) {
+            padding-top: 0;
+        }
+
+    }
+
+    &__content {
+        background-color: var(--color-white);
+        padding: 20px;
+        height: 100vh;
+        display: grid;
+        grid-template-rows: 3fr repeat(auto-fill, 1fr) 6fr;
+        max-width: 375px;
+
+        @media (min-width: 640px) {
+            height: auto;
+            padding: 40px;
+            grid-template-rows: repeat(1fr);
+            border-radius: 30px;
+        }
+    }
+
+    &__btn {
+        place-self: end center;
+        
+        
+    }
+
+    &__title{
+        // padding-bottom: 20px;
+        @media (min-width: 640px) {
+            padding-bottom: 20px;
+        }
+    }
+
+    &__text {
+        @media (min-width: 640px) {
+            padding-bottom: 30px;
+        }
+    }
+}
+
+.text-email {
+    font-weight: 700;
+}
+
+.is-open {
+    opacity: 1;
+    pointer-events: all;
+}
